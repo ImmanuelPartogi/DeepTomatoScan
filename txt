@@ -1,0 +1,26 @@
+tomato_disease_detection/
+│
+├── data/
+│   ├── train/
+│   │
+│   └── test/
+│
+├── src/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── data_loader.py
+│   ├── model.py
+│   ├── train.py
+│   ├── predict.py
+│   ├── utils.py
+│   └── evaluate.py
+│
+├── logs/
+│   ├── train/
+│   │
+│   └── validation/
+|
+├── models/
+|
+└── requirements.txt
+
