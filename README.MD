@@ -83,10 +83,6 @@ The model will classify the input image into one of three categories:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
-
-This project is licensed under the NERO License.
-
 ## 📧 Contact
 
 For questions and feedback, please open an issue in the GitHub repository.
